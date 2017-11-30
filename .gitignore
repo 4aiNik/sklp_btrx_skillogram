@@ -1,0 +1,13 @@
+*.tar.gz
+*.tgz
+*.gz
+*.sql
+*.log
+sitemap*.xml
+
+/upload/
+/bitrix/cache/
+/bitrix/manager_cache/
+/bitrix/stack_cache/
+/bitrix/tmp/
+
