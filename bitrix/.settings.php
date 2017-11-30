@@ -1,5 +1,11 @@
 <?php
-return array (
+
+$developer_ips = [
+    '127.0.0.1',
+];
+define('IS_DEVELOPER', in_array($_SERVER['REMOTE_ATTR'], $developer_ips));
+
+return array (
   'utf_mode' => 
   array (
     'value' => true,
@@ -27,7 +33,7 @@
   array (
     'value' => 
     array (
-      'debug' => false,
+      'debug' => IS_DEVELOPER === true,
       'handled_errors_types' => 4437,
       'exception_errors_types' => 4437,
       'ignore_silence' => false,

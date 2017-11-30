@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/skillogram/template_styles.css" => "1512062223937","/bitrix/css/main/themes/blue/style.css" => "1511887235331",), 'CUR_SEL_CNT' => '22', 'CUR_IE_CNT' => '0'); ?>

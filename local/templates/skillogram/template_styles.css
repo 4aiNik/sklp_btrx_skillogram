@@ -1,0 +1,19 @@
+a:hover {color:red;} 
+#finding:focus {background-color: #DCDCDC;}
+#f1 {text-align: right; padding-top: 5px; padding-bottom: 70px;}
+#top {margin-left: 53px; margin-top: 10px; float: left; width:157px; height:82px;}
+#menu, #menu li {margin: 0;}
+#menu {text-align: right; margin-top: 5px;}
+#menu li {display: inline-block; text-align: center; color: blue; text-decoration: underline;}
+#container {margin: 0 auto; max-width: 400px;}
+#form {visibility: hidden; text-align: right;}
+.f2 {font-size: 12px; max-width: 400px; border-bottom: 40px solid #ffffff;}
+.mark {margin-top: 0px; margin-bottom: 0px; font-size: 10px; color: grey;}
+.icon {width:40px; height:40px; padding-right: 5px; float: left;}
+.foto {width:400px; height:250px; border-bottom: 7px solid #ffffff;}
+.like {width:50px; height:40px; float: left;}
+.button {margin-left: -4px;}
+.input {width: 249px;}
+num {font-size: 38px;}
+.warningText {background:red; color:white; width:20%;}
+.selected a {color:red;}

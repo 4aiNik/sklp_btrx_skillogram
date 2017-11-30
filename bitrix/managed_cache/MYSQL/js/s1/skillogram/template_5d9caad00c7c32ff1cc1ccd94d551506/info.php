@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/skillogram/js/jquery-3.2.1.min.js" => "151206498786659","/local/templates/skillogram/js/app.js" => "15120649872478",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
