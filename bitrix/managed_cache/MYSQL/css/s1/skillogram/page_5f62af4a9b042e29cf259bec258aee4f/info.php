@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/skillogram/components/bitrix/news.list/newsBlock/style.css" => "1512467796150",), 'CUR_SEL_CNT' => '3', 'CUR_IE_CNT' => '0'); ?>

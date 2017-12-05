@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/skillogram/template_styles.css" => "15124760281037",), 'CUR_SEL_CNT' => '22', 'CUR_IE_CNT' => '0'); ?>

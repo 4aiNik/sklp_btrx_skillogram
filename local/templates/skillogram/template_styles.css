@@ -17,3 +17,5 @@ a:hover {color:red;}
 num {font-size: 38px;}
 .warningText {background:red; color:white; width:20%;}
 .selected a {color:red;}
+.morePhoto {width:400px; height:auto;}
+.onePhoto {width:32%; height:auto;}

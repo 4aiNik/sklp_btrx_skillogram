@@ -9,7 +9,7 @@ IncludeTemplateLangFile(__FILE__);
 <body>
     <?$APPLICATION->ShowPanel()?>
 	<div>
-		<img src="images/logo.jpg" id="top">	
+		<img src="<?=SITE_TEMPLATE_PATH?>/images/logo.jpg" id="top">	
 			<?$APPLICATION->IncludeComponent(
 				"bitrix:menu", 
 				"", 
